@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jieun Lee&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JieunGithub!&fontSize=90" />
 
-<div align="center">
-  <h4>안녕하세요! 👋</h4>
-  이지은입니다.
+<h3 align="center">Tech Stack</h3>
