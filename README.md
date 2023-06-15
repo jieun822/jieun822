@@ -2,7 +2,7 @@
 
 <h3 align="center">👋 Hi there! 👋</h3>
 <p align="center">안녕하세요 신입 웹퍼블리셔 이지은입니다 :)</p>
-<p align="center">배움을 즐길 줄 아는 퍼블리셔가 되겠습니다!!🙋</p>
+<p align="center">배움을 즐길 줄 아는 퍼블리셔가 되겠습니다!! 🙋</p>
 <br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
