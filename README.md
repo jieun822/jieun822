@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Jieun!&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Hi!%20I'm%20Jieun!&fontSize=70"/>
 
 <h3 align="center">👋 Hi there! 👋</h3>
-<p align="center">안녕하세요 신입 웹퍼블리셔 이지은입니다 :)</p>
-<p align="center">배움을 즐길 줄 아는 퍼블리셔가 되겠습니다!! 🙋</p>
+<p align="center"><strong>안녕하세요 신입 웹퍼블리셔 이지은입니다 :)</strong></p>
+<p align="center"><strong>배움을 즐길 줄 아는 퍼블리셔가 되겠습니다!!</strong> 🙋</p>
 <br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
